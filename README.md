@@ -1,5 +1,3 @@
 # masterclass-Github
 
-mon premier changement
-
-"- Nouvelle fonctionnalité"
+Notre portfolio pour le workshop git et github
